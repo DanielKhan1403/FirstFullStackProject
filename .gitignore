@@ -1,0 +1,36 @@
+# .gitignore for Django and React
+
+# Python
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+.venv/
+venv/
+
+# Node.js
+node_modules/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Django
+*.log
+*.pot
+*.pyc
+.coverage
+.tox
+.nox
+.coverage.*
+.hypothesis/
+.pytest_cache/
+.env/
+.venv/
+
+# React
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+

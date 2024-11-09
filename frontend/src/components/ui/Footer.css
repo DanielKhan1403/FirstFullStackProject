@@ -1,0 +1,29 @@
+/* Дополнительный стиль для анимации */
+.footer-icon:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}
+
+.bg-gradient-to-r {
+    background-image: linear-gradient(to right, #3182ce, #9b56a3, #e53e3e);
+}
+
+.text-white {
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-sm {
+    font-size: 0.875rem;
+}
+
+.text-gray-200 {
+    color: #e2e8f0;
+}
+
+.opacity-70 {
+    opacity: 0.7;
+}
