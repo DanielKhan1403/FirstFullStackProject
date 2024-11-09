@@ -22,7 +22,7 @@ To set up and run the project locally:
 
 ### Prerequisites
 
-- Node.js and npm (for frontend)
+- React and npm (for frontend)
 - Python and Django (for backend)
 - Git
 
@@ -31,12 +31,12 @@ To set up and run the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/DanielKhan1403/FirstFullStackProject.git
-   cd firrstFullStackProj
+   cd FirstFullStackProj
 
 
 
    
-cd backend
+cd serverex
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
