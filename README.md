@@ -30,7 +30,7 @@ To set up and run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DanielKhan1403/firrstFullStackProj.git
+   git clone https://github.com/DanielKhan1403/FirstFullStackProject.git
    cd firrstFullStackProj
 
 
