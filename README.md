@@ -13,7 +13,7 @@ This is my first full-stack project, where I built both the backend and frontend
 
 ## Folder Structure
 
-- **backend/**: Contains the Django backend for file management, including user authentication, file uploads, and permissions.
+- **serverex/**: Contains the Django backend for file management, including user authentication, file uploads, and permissions.
 - **frontend/**: Contains the React frontend for user interaction, file upload/download, and link generation.
 
 ## Getting Started
